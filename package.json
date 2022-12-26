@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "run:multiplier": "ts-node reto24.ts",
+    "run:multiplier": "ts-node retos/reto21.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
